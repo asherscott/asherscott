@@ -11,9 +11,9 @@
 
 <br />
 
-<p align="center" >🌱 I’m currently learning **data structures and algorithms** </p>
+<p align="center" >🌱 I’m currently learning <strong>data structures and algorithms</strong> </p>
 
-<p align="center" >📫 Reach me at **asher.scott6@gmail.com** </p>
+<p align="center" >📫 Reach me at <strong>asher.scott6@gmail.com</strong> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
