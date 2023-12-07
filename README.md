@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Asher Scott</h1>
 <h3 align="center">Software Engineer from Dallas, TX</h3>
 
@@ -26,7 +27,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asherscott&show_icons=true&locale=en&theme=onedark" alt="asherscott" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asherscott&theme=onedark" alt="asherscott" /></p>
-
+-->
 <!-- Horizontal align --> 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=asherscott&show_icons=true&locale=en&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asherscott&show_icons=true&locale=en&theme=onedark" alt="asherscott" />
